@@ -1,0 +1,6 @@
+01;Axel;Hernandez;18;100
+02;Brandiuxx;Hernandez;18;100
+03;Izel;Avila;18;100
+04;Angela;Olvedo;18;100
+cd;"c:\Users\hplax\Documents\GitHub\School-Tasks\C++\Archivos\" ; if ($?) { g++ -std=c++17 AbrirArchivos.cpp -o AbrirArchivos } ; if ($?) { .\AbrirArchivos };cd "c:\Users\hplax\Documents\GitHub\School-Tasks\C++\Archivos\" ; if ($?) { g++ -std=c++17 AbrirArchivos.cpp -o AbrirArchivos } ; if ($?) { .\AbrirArchivos };0;8
+cd;"c:\Users\hplax\Documents\GitHub\School-Tasks\C++\Archivos\" ; if ($?) { g++ -std=c++17 AbrirArchivos.cpp -o AbrirArchivos } ; if ($?) { .\AbrirArchivos };cd "c:\Users\hplax\Documents\GitHub\School-Tasks\C++\Archivos\" ; if ($?) { g++ -std=c++17 AbrirArchivos.cpp -o AbrirArchivos } ; if ($?) { .\AbrirArchivos };0;8
