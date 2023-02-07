@@ -36,4 +36,10 @@ Happy coding!
 6. [Threads](https://github.com/SoMa-0/CPP-Playground/tree/main/Threads)
     - Quick Threads Script for Node MCU.
     
+## Contributors
+
+<a href="https://github.com/axel3246/cpp-playground/graphs/contributors">
+  <img src="https://stg.contrib.rocks/image?repo=axel3246/cpp-playground" />
+</a>
+  
 ## Thanks for passing by!
